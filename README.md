@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/2b3xr4h5u1f9d0ci/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-thunk-api-redux-thunk/branch/main)
 
 [API-with-thunk](https://bombik815.github.io/ra-thunk-api-redux-thunk/)
 
